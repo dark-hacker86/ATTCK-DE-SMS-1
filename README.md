@@ -1,2 +1,0 @@
-# ATTCK-DE-SMS-1
-Dark
